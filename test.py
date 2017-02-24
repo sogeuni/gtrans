@@ -7,8 +7,8 @@ They were the last people you'd expect to be involved in anything strange or mys
 because they just didn't hold with such nonsense."""
 
     print(translate(translate_str, "ko"))
-    print(translate(translate_str, "ja"))
-    print(translate(translate(translate_str, "ja"), "ko"))
+    # print(translate(translate_str, "ja"))
+    # print(translate(translate(translate_str, "ja"), "ko"))
 
 if __name__ == "__main__":
     main()
